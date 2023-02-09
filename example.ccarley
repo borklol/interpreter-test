@@ -1,0 +1,16 @@
+string a: "v23";
+string abc: "TEst24190";
+number aa: 5;
+boolean b: true;
+number aaa: 2415;
+
+aaa:add(0.02);
+
+number aea: 50;
+string assertionError: "......";
+
+abc:toLower();
+a:toUpper();
+
+print(aea,abc,a, assertionError);
+print(b);
